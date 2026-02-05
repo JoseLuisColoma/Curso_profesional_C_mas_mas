@@ -89,14 +89,14 @@ El objetivo del curso es adquirir una base sólida en **programación en C++**, 
 ---
 
 ## 📂 Estructura del Repositorio (sugerida)
-/modulo-01-introduccion
-/modulo-02-fundamentos
-/modulo-03-control-flujo
-/modulo-04-arreglos-cadenas
-/modulo-05-memoria
-/modulo-06-stl-excepciones
-/modulo-07-poo
-/modulo-08-proyecto-final
+- /modulo-01-introduccion
+- /modulo-02-fundamentos
+- /modulo-03-control-flujo
+- /modulo-04-arreglos-cadenas
+- /modulo-05-memoria
+- /modulo-06-stl-excepciones
+- /modulo-07-poo
+- /modulo-08-proyecto-final
 
 ---
 
